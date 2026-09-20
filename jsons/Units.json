@@ -12,6 +12,17 @@
 		"uniques": ["Ignores terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
+{
+  "name": "Wakanda Archer",
+  "unitType": "Archer",
+  "replaces": "Archer",
+  "uniqueTo": "Wakanda",
+  "strength": 12,
+  "rangedStrength": 18,
+  "movement": 5
+  "uniques": ["Ignores terrain cost"],
+  "promotions": ["Blitz"],
+},
 	{
 		"name": "White Gorilla",
 		"unitType": "Sword",
