@@ -100,7 +100,7 @@
     {
 		"name": "Black Panther",
 		"unitType": "Sword",
-		"movement": 2,
+		"movement": 5,
 		"strength": 30,
 		"cost": 500,
 		"uniques": [
@@ -126,7 +126,7 @@
 			"Gain [-100] [Gold] <(modified by game speed)> <upon being defeated> <hidden from users>",
 			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
 		],
-		"promotions": ["Panther Eyes"],
+		"promotions": ["Panther Eyes", "blitz"],
 		"attackSound": "metalhit"
 	}
 ]
