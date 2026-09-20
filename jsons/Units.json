@@ -117,7 +117,7 @@
 			"[+25]% Strength <starting from the [Information era]>",
 			"[+25]% Strength <starting from the [Future era]>",
 			"[+1] Movement <starting from the [Renaissance era]>",
-    ["Ignores terrain cost"],
+   "Ignores terrain cost",
 			"[+1] Movement <starting from the [Modern era]>",
 			"[+1] Movement <starting from the [Information era]>",
 			"Cost increases by [50] when built",
@@ -127,7 +127,7 @@
 			"Gain [-100] [Gold] <(modified by game speed)> <upon being defeated> <hidden from users>",
 			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
 		],
-		"promotions": ["Panther Eyes"], ["blitz"],
+		"promotions": ["Panther Eyes", "blitz"],
 		"attackSound": "metalhit"
 	}
 ]
