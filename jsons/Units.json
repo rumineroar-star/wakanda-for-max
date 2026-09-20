@@ -17,11 +17,15 @@
   "unitType": "Ranged",
   "replaces": "Archer",
   "uniqueTo": "Wakanda",
-  "strength": 12,
-  "rangedStrength": 18,
-  "movement": 5
+  "strength": 5,
+  "rangedStrength": 7,
+  "cost": 40,
+  "requiredTech": "Archery",
+  "movement": 5,
+  "obsoleteTech": "Construction",
+  "upgradesTo": "Composite Bowman",
   "uniques": ["Ignores terrain cost"],
-  "promotions": ["Blitz"],
+  "promotions": ["Blitz"]
 },
 	{
 		"name": "White Gorilla",
