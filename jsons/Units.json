@@ -14,11 +14,11 @@
 	},
 {
   "name": "Wakanda Archer",
-  "unitType": "Ranged",
+  "unitType": "Ranged Archer",
   "replaces": "Archer",
   "uniqueTo": "Wakanda",
   "strength": 7,
-  "rangedStrength": 7,
+  "rangedStrength": 10,
   "cost": 40,
   "requiredTech": "Archery",
   "movement": 5,
