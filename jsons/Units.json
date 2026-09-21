@@ -14,7 +14,7 @@
 	},
 {
   "name": "Wakanda Archer",
-  "unitType": "Ranged Archer",
+  "unitType": "Archery",
   "replaces": "Archer",
   "uniqueTo": "Wakanda",
   "strength": 7,
