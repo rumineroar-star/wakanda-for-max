@@ -12,6 +12,20 @@
 		"uniques": ["Ignores terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
+    {
+        "name": "Guardião da Torre",
+        "unitType": "Melee",
+        "movement": 3,
+        "strength": 7,
+        "cost": 100,
+        "uniques": [
+    "[+70]% Strength <when fighting in [Torre de Defesa] tiles>",
+    "[+70]% Strength <when defending> <vs [Ranged] units> <when fighting in [Torre de Defesa] tiles>",
+    "Unable to capture cities",
+    "Unable to pillage tiles",
+    "Uncapturable"
+        ]
+    },
 {
   "name": "Wakanda Archer",
   "unitType": "Archery",
