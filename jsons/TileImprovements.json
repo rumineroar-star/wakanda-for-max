@@ -1,6 +1,7 @@
 [
     {
         "name": "Torre de Defesa",
+        "uniqueTo": "Wakanda",
         "terrainsCanBeBuiltOn": [
             "Grassland",
             "Plains",
@@ -18,6 +19,7 @@
     },
     {
         "name": "Fábrica Fortificada",
+        "uniqueTo": "Wakanda",
         "production": 4,
         "terrainsCanBeBuiltOn": [
             "Land"
