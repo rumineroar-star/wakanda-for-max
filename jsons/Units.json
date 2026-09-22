@@ -15,6 +15,7 @@
     {
         "name": "Guardião da Torre",
         "unitType": "Melee",
+        "uniqueTo": "Wakanda",
         "movement": 3,
         "strength": 7,
         "cost": 100,
@@ -22,8 +23,6 @@
     "[+70]% Strength <when fighting in [Torre de Defesa] tiles>",
     "[+70]% Strength <when defending> <vs [Ranged] units> <when fighting in [Torre de Defesa] tiles>",
     "Unable to capture cities",
-                        "Limited to [3] per Civilization",
-                        "Only available <in cities with a [Sacred Mound]>",
     "Unable to pillage tiles",
     "Uncapturable"
         ]
