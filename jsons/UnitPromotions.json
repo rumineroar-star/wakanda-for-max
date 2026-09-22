@@ -8,5 +8,29 @@
 	{
 		"name": "Panther Eyes",
 		"uniques": ["Can see invisible [All] units"]
-	}
+	},
+    {
+        "name": "Cura I",
+        "prerequisites": [],
+        "unitTypes": ["Melee"],
+        "uniques": [
+            "All adjacent units heal [5] HP when healing"
+        ]
+    },
+    {
+        "name": "Cura II",
+        "prerequisites": ["Cura I"],
+        "unitTypes": ["Melee"],
+        "uniques": [
+            "All adjacent units heal [5] HP when healing"
+        ]
+    },
+    {
+        "name": "Cura III",
+        "prerequisites": ["Cura II"],
+        "unitTypes": ["Melee"],
+        "uniques": [
+            "All adjacent units heal [5] HP when healing"
+        ]
+    }
 ]
