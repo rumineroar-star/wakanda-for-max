@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Torre de Defesa",
+        "terrainsCanBeBuiltOn": [
+            "Grassland",
+            "Plains",
+            "Desert",
+            "Tundra",
+            "Snow"
+        ],
+        "turnsToBuild": 5,
+        "uniques": [
+            "Gives a defensive bonus of [+25]%",
+            "Adjacent enemy units ending their turn take [10] damage",
+            "Unpillagable",
+            "Irremovable"
+        ]
+    },
+    {
+        "name": "Fábrica Fortificada",
+        "production": 4,
+        "terrainsCanBeBuiltOn": [
+            "Land"
+        ],
+        "turnsToBuild": 9,
+        "uniques": [
+            "Can only be built on [Manufactory] tiles",
+            "Great Improvement",
+            "Gives strategic resources on tile when built",
+            "Provides [+1 Production] with [Chemistry]",
+            "Unpillagable",
+            "Irremovable"
+        ]
+    }
+]
