@@ -29,6 +29,23 @@
         "Ignores Zone of Control"
     ]
     },
+{
+		"name": "[Conquistador] ability",
+		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>"],
+"unitTypes": ["Mounted","Armored"]
+	},
+	{
+		"name": "[Conquistador] ability II",
+		"prerequisites": ["[Conquistador] ability"],
+		"unitTypes": ["Mounted","Armored"],
+		"uniques": ["[+2] Movement <when [Embarked]>"]
+	},
+	{
+		"name": "[Conquistador] ability III",
+		"prerequisites": ["[Conquistador] ability II"],
+		"unitTypes": ["Mounted","Armored"],
+		"uniques": ["[+100]% Strength <when defending> <when [Embarked]>"]
+	},
 	   {
 		"name": "[Privateer] ability",
 		"uniques": ["May capture killed [Water] units"],
