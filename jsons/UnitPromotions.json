@@ -12,7 +12,7 @@
     {
         "name": "Cura I",
         "prerequisites": [],
-        "unitTypes": ["Melee"],
+        "unitTypes": ["Melee", "Scout"],
         "uniques": [
             "All adjacent units heal [5] HP when healing"
         ]
@@ -20,7 +20,7 @@
     {
         "name": "Cura II",
         "prerequisites": ["Cura I"],
-        "unitTypes": ["Melee"],
+        "unitTypes": ["Melee", Scout"],
         "uniques": [
             "All adjacent units heal [5] HP when healing"
         ]
@@ -28,7 +28,7 @@
     {
         "name": "Cura III",
         "prerequisites": ["Cura II"],
-        "unitTypes": ["Melee"],
+        "unitTypes": ["Melee", "Scout"],
         "uniques": [
             "All adjacent units heal [5] HP when healing"
         ]
