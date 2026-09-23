@@ -17,12 +17,13 @@
         "unitType": "Scout",
         "uniqueTo": "Wakanda",
         "movement": 3,
-        "strength": 7,
+        "strength": 14,
         "cost": 40,
         "uniques": [
     "[+70]% Strength <when fighting in [Torre de Defesa] tiles>",
     "[+70]% Strength <when defending> <vs [Ranged] units> <when fighting in [Torre de Defesa] tiles>",
     "Unable to capture cities",
+    "Ignores terrain cost",
     "Unable to pillage tiles",
     "Uncapturable"
         ]
