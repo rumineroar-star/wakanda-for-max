@@ -12,17 +12,16 @@
             "[+1 Science, +1 Faith] [in this city] <with [Vibranium]>"]
     },
 {
-        "name": "Manufacture Districts",
-        "cost": 180,
-        "uniqueTo": "Wakanda",
-        "uniques": [
-                "Can be continually purchased",
-                "Unbuildable",
-                "Remove [Manufacture Districts] [in this city] <hidden from users>",
-                "Instantly provides [3] [City Production Modifier]",
-                "+3% City Production Yield",
-                "[+3]% [Production] [in this city] <for [9999] turns> <hidden from users>"
-        ]
+    "name": "Manufacture Districts",
+    "cost": 180,
+    "uniqueTo": "Wakanda",
+    "uniques": [
+        "Can be continually purchased",
+        "Remove [Manufacture Districts] [in this city] <hidden from users>",
+        "Instantly provides [3] [City Production Modifier]",
+        "+3% City Production Yield",
+        "[+3]% [Production] [in this city] <for [9999] turns> <hidden from users>"
+    ]
 },
     {
         "name": "Energy Barrier",
