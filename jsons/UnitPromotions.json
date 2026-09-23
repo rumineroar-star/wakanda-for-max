@@ -8,7 +8,27 @@
 	{
 		"name": "Panther Eyes",
 		"uniques": ["Can see invisible [All] units"]
-	},
+   	},
+    {
+    "name": "Ignore terrain cost",
+    "unitTypes": ["Scout", "Ranged", "Gunpowder"],
+    "uniques": ["Ignores terrain cost"]
+    },
+    {
+    "name": "Ignore terrain cost II",
+    "prerequisites": ["Ignore terrain cost"],
+    "unitTypes": ["Scout", "Ranged", "Gunpowder"],
+    "uniques": ["Can pass through impassable tiles"]
+    },
+    {
+    "name": "Ignore terrain cost III",
+    "prerequisites": ["Ignore terrain cost II"],
+    "unitTypes": ["Scout", "Ranged", "Gunpowder"],
+    "uniques": [
+        "No defensive terrain penalty",
+        "Ignores Zone of Control"
+    ]
+    },
     {
         "name": "Cura I",
         "prerequisites": [],
