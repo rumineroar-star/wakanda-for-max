@@ -29,7 +29,7 @@
             "Can only be built on [Manufactory] tiles",
             "Great Improvement",
             "Gives strategic resources on tile when built",
-            "Provides [+1 Production] with [Chemistry]",
+            "[+1 Production] <after discovering [Chemistry]>",
             "Unpillagable",
             "Irremovable"
         ]
