@@ -39,7 +39,7 @@
   "movement": 5,
   "obsoleteTech": "Construction",
   "upgradesTo": "Composite Bowman",
-  "promotions": [""]
+  "promotions": []
 },
 	{
 		"name": "White Gorilla",
