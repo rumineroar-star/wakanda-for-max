@@ -20,7 +20,7 @@
     {
         "name": "Cura II",
         "prerequisites": ["Cura I"],
-        "unitTypes": ["Melee", Scout"],
+        "unitTypes": ["Melee", "Scout"],
         "uniques": [
             "All adjacent units heal [5] HP when healing"
         ]
