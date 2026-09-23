@@ -29,6 +29,23 @@
         "Ignores Zone of Control"
     ]
     },
+	   {
+		"name": "[Privateer] ability",
+		"uniques": ["May capture killed [Water] units"],
+      "unitTypes": ["Melee Water"]
+	   },
+	   {
+		"name": "[Privateer] ability II",
+		"prerequisites": ["[Privateer] ability"],
+		"unitTypes": ["Melee Water"],
+		"uniques": ["[+25]% Strength <vs [Ranged Water] units>"]
+	   },
+	   {
+		"name": "[Privateer] ability III",
+		"prerequisites": ["[Privateer] ability II"],
+		"unitTypes": ["Melee Water"],
+		"uniques": ["[This Unit] heals [50] HP <upon defeating a [Water] unit>"]
+	   },
     {
         "name": "Cura I",
         "prerequisites": [],
