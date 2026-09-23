@@ -52,6 +52,7 @@
 		"obsoleteTech": "Metal Casting",
 		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>",
 			"[+33]% Strength <when fighting in [Jungle] tiles>"],
+"Ignores terrain cost"
 		"promotions": ["Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -135,6 +136,7 @@
 		"uniques": [
 			"[+20]% Strength bonus for [Military] units within [2] tiles",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+   "Ignores terrain cost",
 			"Uncapturable",
 			"Limited to [1] per Civilization",
 			"Only available <in cities with a [Sacred Mound]>",
