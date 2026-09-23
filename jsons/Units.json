@@ -51,8 +51,8 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>",
-			"[+33]% Strength <when fighting in [Jungle] tiles>"],
-"Ignores terrain cost"
+			"[+33]% Strength <when fighting in [Jungle] tiles>",
+"Ignores terrain cost"],
 		"promotions": ["Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
