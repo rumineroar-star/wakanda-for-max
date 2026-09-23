@@ -38,8 +38,7 @@
   "requiredTech": "Archery",
   "movement": 5,
   "obsoleteTech": "Construction",
-  "upgradesTo": "Composite Bowman",
-  "promotions": 
+  "upgradesTo": "Composite Bowman"
 },
 	{
 		"name": "White Gorilla",
