@@ -47,6 +47,23 @@
 		"uniques": ["[This Unit] heals [50] HP <upon defeating a [Water] unit>"]
 	   },
 {
+		"name": "[Hussar] ability",
+		"uniques": ["[+50]% to Flank Attack bonuses"],
+      "unitTypes": ["Mounted","Armored"]
+	},
+	{
+		"name": "[Hussar] ability II",
+		"prerequisites": ["[Hussar] ability"],
+		"unitTypes": ["Mounted","Armored"],
+		"uniques": ["[+25]% to Flank Attack bonuses","[+15]% Strength <vs [Wounded] units>"]
+	},
+	{
+		"name": "[Hussar] ability III",
+		"prerequisites": ["[Hussar] ability II"],
+		"unitTypes": ["Mounted","Armored"],
+		"uniques": ["[+25]% to Flank Attack bonuses","[+15]% Strength <vs [Wounded] units>"]
+	},
+{
 		"name": "[Chu-Ko-Nu] ability",
 		"uniques": ["[1] additional attacks per turn", "Can move after attacking"],
 "unitTypes": ["Archery","Ranged Gunpowder"]
