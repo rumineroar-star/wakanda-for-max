@@ -14,7 +14,7 @@
 	},
     {
         "name": "Guardião da Torre",
-        "unitType": "Scout",
+        "unitType": "Melee",
         "uniqueTo": "Wakanda",
         "movement": 3,
         "strength": 14,
@@ -24,6 +24,7 @@
     "[+70]% Strength <when defending> <vs [Ranged] units> <when fighting in [Torre de Defesa] tiles>",
     "Unable to capture cities",
     "Ignores terrain cost",
+    "[+100]% XP gained from combat",
     "Unable to pillage tiles",
     "Uncapturable"
         ]
@@ -37,7 +38,7 @@
   "rangedStrength": 10,
   "cost": 40,
   "uniques": [
-  "Ignores terrain cost"],
+  "Ignores terrain cost", "[+100]% XP gained from combat"],
   "requiredTech": "Archery",
   "promotions": ["Blitz"],
   "movement": 5,
