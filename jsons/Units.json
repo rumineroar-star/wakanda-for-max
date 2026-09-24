@@ -36,7 +36,10 @@
   "strength": 7,
   "rangedStrength": 10,
   "cost": 40,
+  "uniques": [
+  "Ignores terrain cost"],
   "requiredTech": "Archery",
+  "promotions": ["Blitz"],
   "movement": 5,
   "obsoleteTech": "Construction",
   "upgradesTo": "Composite Bowman"
