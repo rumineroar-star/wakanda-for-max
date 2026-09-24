@@ -11,6 +11,15 @@
 		"uniques": ["Only available <when religion is enabled>",
             "[+1 Science, +1 Faith] [in this city] <with [Vibranium]>"]
     },
+  {
+    "name": "Blitzkrieg",
+    "uniqueTo": "Wakanda",
+    "cost": 0,
+    "uniques": [
+      "Unbuildable <for [AI player]>",
+      "[+6] Movement <for [Water] units>",
+      "[+6] Movement <for [Land] units>"
+  },
     {
         "name": "Energy Barrier",
         "uniqueTo": "Wakanda",
